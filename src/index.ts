@@ -1,3 +1,9 @@
+/*Sumar Dos Arreglos
+• Sumar los elementos de cada una de las posiciones
+de dos arreglos y guardar el resultado en otro arreglo
+• El arreglo tiene dimensión 6 y los números de los dos
+vectores los carga el usuario*/
+
 //resultadoSuma: number[] = function()
 let arreglo1: number[] = new Array(6);
 let arreglo2: number[] = new Array(6);
